@@ -6,7 +6,7 @@ Get complete information at www.quzzastudio.com
 * [All Adobe Product](./README.md)
 * [Adobe Animate](./Adobe-XD/README.md)
 * [Adobe Audition](./Adobe-XD/README.md)
-* [Adobe Dimension](./Adobe-XD/README.md)
+* [Adobe Dimension](./Adobe-Dimension/README.md)
 * [Adobe Dreamweaver](./Adobe-XD/README.md)
 * [Adobe Illustrator](./Adobe-XD/README.md)
 * [Adobe InDesign](./Adobe-InDesign/README.md)
